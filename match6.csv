@@ -1,0 +1,203 @@
+Last,First,School,Grade,1,2,3,4,5,6,Scores
+Alilaikannan,Tanisha,AITE,10,0,x,0,x,x,0,0
+Awad,Matthew,AITE,12,x,1,x,0,4,x,5
+Dinglasan,Lorenzo,AITE,12,3,x,x,x,6,3,12
+Kinderman,Adam,AITE,12,x,x,x,1,4,1,6
+Sharma,Jessica,AITE,10,x,1,0,0,x,x,1
+Zhu,Aaron,AITE,12,0,0,0,x,x,x,0
+,,,,,,,,,,
+Akkili,Chiru,Bethel High School,11,x,x,1,3,4,x,8
+Chowdhury,Mashnoov,Bethel High School,12,0,x,3,x,x,4,7
+Doshi,Aarush,Bethel High School,11,x,4,x,1,4,x,9
+Nguyen,Brian,Bethel High School,12,1,6,1,x,x,x,8
+Shenoy,Preethika,Bethel High School,10,x,0,x,0,x,0,0
+Zuraw,Chris,Bethel High School,11,0,x,x,x,4,5,9
+,,,,,,,,,,
+DiChiaro,Joe,Brien McMahon High School,12,1,X,X,0,X,1,2
+Meyer-Mitchell,Tristan,Brien McMahon High School,10,X,X,0,1,X,5,6
+Mundra,Anay,Brien McMahon High School,10,X,3,0,X,4,X,7
+Rao,Arush,Brien McMahon High School,12,1,6,0,X,X,X,7
+Reyes,Andres,Brien McMahon High School,10,X,1,X,0,3,X,4
+Reyes,Rosa,Brien McMahon High School,10,0,X,X,X,3,0,3
+,,,,,,,,,,
+Abdulrahman,Fatima,Brookfield High School,12,x,x,1,1,4,x,6
+Abdulrahman,Saarah,Brookfield High School,10,0,x,x,0,x,0,0
+Ghosh,Shomick,Brookfield High School,9,x,0,x,1,4,x,5
+Gowrishetti,Rishik,Brookfield High School,12,0,1,1,x,x,x,2
+Parimi,Arjun,Brookfield High School,10,x,3,3,x,x,0,6
+Shirsat,Samarth,Brookfield High School,10,0,x,x,x,4,3,7
+,,,,,,,,,,
+Bagaria,Ajay,Brunswick School,12,3,X,X,4,4,X,11
+Ewald,Thomas,Brunswick School,12,X,3,X,X,6,3,12
+Lee,Jeremy,Brunswick School,11,3,3,X,4,X,X,10
+Sarkar,Vikram,Brunswick School,10,X,X,6,6,X,6,18
+Tu,Andrew,Brunswick School,12,6,X,4,X,6,X,16
+Whitney-Epstein,Jack,Brunswick School,10,X,6,6,X,X,6,18
+,,,,,,,,,,
+Guo,Eric,Danbury High School,11,1,X,4,X,4,X,9
+Lolla,Aarush ,Danbury High School,10,X,0,X,3,X,0,3
+Murphy,Mikayla,Danbury High School,12,X,1,0,X,4,X,5
+Nishad,Izzah,Danbury High School,11,0,X,X,X,4,2,6
+Ovalles,Mario,Danbury High School,12,1,2,X,3,X,X,6
+Zhu,Cody,Danbury High School,11,X,X,1,1,X,0,2
+,,,,,,,,,,
+Camporeale,Nathan,Darien High School,9,1,X,1,X,X,0,2
+Liu,Grace,Darien High School,12,X,X,6,X,6,3,15
+Qin,June,Darien High School,12,X,6,X,6,4,X,16
+Qin,Jason,Darien High School,10,X,X,4,X,6,2,12
+Younessian,Aiden,Darien High School,9,3,1,X,4,X,X,8
+Zou,Chloe,Darien High School,9,1,1,X,1,X,X,3
+,,,,,,,,,,
+Cederholm,Max,Fairfield Ludlowe High School,12,X,X,3,3,6,X,12
+Dai,David,Fairfield Ludlowe High School,11,X,X,3,5,6,X,14
+Dranchak,Johnny,Fairfield Ludlowe High School,12,0,X,1,X,X,0,1
+Dupont,David,Fairfield Ludlowe High School,11,X,6,X,1,4,X,11
+Mahshwari,Naisha,Fairfield Ludlowe High School,9,1,0,X,X,X,0,1
+Parimi,Krish,Fairfield Ludlowe High School,12,0,3,X,X,X,3,6
+,,,,,,,,,,
+Demers,James,Fairfield Prep,10,x,x,1,x,6,6,13
+Erive,Aidan,Fairfield Prep,11,x,0,1,1,x,x,2
+Kopchick,Drew,Fairfield Prep,11,0,6,x,0,x,x,6
+Maechling,Lars,Fairfield Prep,11,0,x,0,x,x,0,0
+Pan,Matthew,Fairfield Prep,11,x,3,x,1,6,x,10
+Tristine,Daniel,Fairfield Prep,11,0,x,x,x,3,2,5
+,,,,,,,,,,
+Banta,Zoe,Fairfield Warde High School,12,x,3,1,0,x,x,4
+Ganjikunta,Amogh,Fairfield Warde High School,11,1,3,0,x,x,x,4
+Herrera,Sara,Fairfield Warde High School,9,0,x,x,0,3,x,3
+Pal,Anjishnu,Fairfield Warde High School,10,0,x,1,x,x,2,3
+Sinha,Anshul,Fairfield Warde High School,10,x,x,x,1,4,0,5
+Thakkar,Vaden,Fairfield Warde High School,10,x,4,x,x,3,0,7
+,,,,,,,,,,
+Herman,Danya,Greens Farms Academy,10,X,1,X,1,4,X,6
+Nalbantoglu,Serra,Greens Farms Academy,11,X,X,1,1,X,3,5
+Niass,Ahmad,Greens Farms Academy,11,1,X,X,1,X,0,2
+Qiao,En,Greens Farms Academy,9,0,1,1,X,X,X,2
+Robinson,Jacob,Greens Farms Academy,12,X,6,X,X,4,6,16
+Xue,Eddie,Greens Farms Academy,12,4,X,1,X,4,X,9
+,,,,,,,,,,
+Kesmodal,Abby,Greenwich Academy,9,X,X,1,6,X,4,11
+Kreutzer,Juliana,Greenwich Academy,10,1,0,X,X,4,X,5
+Lungu,Ksenia,Greenwich Academy,10,1,0,X,1,X,X,2
+Mao,Emma,Greenwich Academy,9,3,X,X,4,4,X,11
+Reid,Annie,Greenwich Academy,10,X,X,0,X,6,0,6
+Xia,Kathryn,Greenwich Academy,12,X,1,1,x,X,2,4
+,,,,,,,,,,
+Iftikar,Imran,Greenwich Country Day School,11,3,3,X,X,X,1,7
+Iftikar,Irhan,Greenwich Country Day School,10,X,6,X,3,6,X,15
+Jain,Yash,Greenwich Country Day School,12,0,6,4,X,X,X,10
+Pauley,Andy,Greenwich Country Day School,12,1,X,1,X,X,3,5
+Santangelo,Henry,Greenwich Country Day School,10,X,X,X,1,4,6,11
+Sha-Gustafsson,Linnea,Greenwich Country Day School,10,X,X,1,5,4,X,10
+,,,,,,,,,,
+Dcruz,Isaac,Greenwich High School,12,4,X,4,X,4,X,12
+Mao,Sarah,Greenwich High School,9,1,X,4,X,3,X,8
+Nadel,Kyle,Greenwich High School,12,X,6,X,6,X,6,18
+Wu,Annabelle,Greenwich High School,10,X,6,X,4,4,X,14
+Yu,Sophie,Greenwich High School,9,6,1,X,X,X,3,10
+Zhao,Alexander,Greenwich High School,11,X,X,1,6,X,3,10
+,,,,,,,,,,
+Bermingham,Finn,Joel Barlow High School,10,1,1,x,0,x,x,2
+Decker,Jack,Joel Barlow High School,12,x,x,0,1,x,0,1
+Hrebin,Jackson,Joel Barlow High School,12,x,x,0,x,3,3,6
+Pasto,Bella,Joel Barlow High School,12,x,x,1,1,4,x,6
+Perretz,Kenji,Joel Barlow High School,10,0,1,x,x,4,x,5
+Zhou,Kyle,Joel Barlow High School,9,0,0,x,x,x,0,0
+,,,,,,,,,,
+Butler,Nick,King School,12,1,X,X,X,4,6,11
+Garland,Will,King School,12,1,X,6,X,4,X,11
+Hayashi,Parker,King School,11,0,X,1,4,X,X,5
+Schamberg,Ethan,King School,11,X,3,X,1,X,0,4
+Srihari,Tyler,King School,9,X,0,0,X,X,1,1
+Wang,Leon,King School,10,X,1,X,1,4,X,6
+,,,,,,,,,,
+Donohue,Jake,New Canaan High School,11,x,0,1,1,x,x,2
+Guan,Tianze,New Canaan High School,11,4,6,3,x,x,x,13
+Huang,Luke,New Canaan High School,12,x,x,x,6,6,6,18
+Juneja,Aksh,New Canaan High School,9,6,x,x,6,x,6,18
+Lavin,Daryl,New Canaan High School,12,x,6,1,x,4,x,11
+Powers,Alex,New Canaan High School,12,1,x,x,x,4,3,8
+,,,,,,,,,,
+Archer,Brian,New Fairfield High School,10,1,1,x,x,6,x,8
+Eklund,Lucia,New Fairfield High School,10,0,x,0,1,x,x,1
+Eklund,Christian,New Fairfield High School,10,1,x,x,1,x,0,2
+Eklund,Nicholas,New Fairfield High School,12,x,0,1,x,x,1,2
+Hubert,Zachary,New Fairfield High School,12,x,x,0,x,4,0,4
+Muhlenberg,Erik,New Fairfield High School,11,x,1,x,1,4,x,6
+,,,,,,,,,,
+,,New Milford High School,,,,,,,,0
+,,New Milford High School,,,,,,,,0
+,,New Milford High School,,,,,,,,0
+,,New Milford High School,,,,,,,,0
+,,New Milford High School,,,,,,,,0
+,,New Milford High School,,,,,,,,0
+,,,,,,,,,,
+Arena,Andrew,Newtown High School,12,X,X,4,6,4,X,14
+Bracket,Jolene,Newtown High School,9,1,X,X,1,4,X,6
+Dissa,Ubay,Newtown High School,9,X,0,0,X,X,0,0
+Dissa,Soheib,Newtown High School,11,X,0,1,X,X,0,1
+Marx,Sierra,Newtown High School,9,0,X,X,0,4,X,4
+White,Tyler,Newtown High School,12,6,6,X,X,X,6,18
+,,,,,,,,,,
+Brown,Carter,Ridgefield High School,11,6,X,4,X,X,5,15
+Carter,Will,Ridgefield High School,11,X,X,1,X,3,6,10
+Gupta,Kaitan,Ridgefield High School,9,2,4,X,0,X,X,6
+Palicha,Jayin,Ridgefield High School,10,X,1,X,1,4,X,6
+Uceda-Sosa,Gabriel,Ridgefield High School,12,X,X,1,X,4,3,8
+Utomo,Sebastian,Ridgefield High School,10,1,4,X,1,X,X,6
+,,,,,,,,,,
+,,Sacred Heart Greenwich,,,,,,,,0
+,,Sacred Heart Greenwich,,,,,,,,0
+,,Sacred Heart Greenwich,,,,,,,,0
+,,Sacred Heart Greenwich,,,,,,,,0
+,,Sacred Heart Greenwich,,,,,,,,0
+,,Sacred Heart Greenwich,,,,,,,,0
+,,,,,,,,,,
+Hu,Peikang,St. Lukes School,9,0,3,X,X,X,3,6
+Kochar,Arjan,St. Lukes School,10,X,X,2,4,4,X,10
+Memon,Salman,St. Lukes School,10,1,3,X,X,4,X,8
+Ruggiero,Chad,St. Lukes School,12,X,4,X,0,X,0,4
+Somaya,Bobby,St. Lukes School,10,X,X,3,1,4,X,8
+Summers,Katie,St. Lukes School,12,0,X,1,X,X,5,6
+,,,,,,,,,,
+Lien,Theodore,Stamford High School,11,x,6,x,1,3,x,10
+Martinez,Justin,Stamford High School,11,0,x,0,x,4,x,4
+Molyneaux,Thomas,Stamford High School,11,1,3,x,x,6,x,10
+Newman,Brett,Stamford High School,12,x,x,6,1,x,2,9
+Thajeer,Rihan,Stamford High School,11,x,x,0,1,x,0,1
+,,Stamford High School,,,,,,,,0
+,,,,,,,,,,
+Aggarwal,Suhani,Staples High School,11,x,6,1,1,x,x,8
+Cheng,Kendra,Staples High School,11,1,x,6,x,x,3,10
+Ji,Anna,Staples High School,11,1,6,x,x,4,x,11
+Lobsenz,Abraham,Staples High School,11,x,4,x,0,3,x,7
+Rudra,Ayush,Staples High School,9,x,x,6,x,6,6,18
+Rudra,Asmi,Staples High School,12,6,x,x,4,x,6,16
+,,,,,,,,,,
+Coble,Katherine,Stratford High School,12,0,x,0,X,X,0,0
+Fernandez,Daniel,Stratford High School,11,X,1,X,1,4,X,6
+Holton,Joseph,Stratford High School,11,0,x,x,0,4,x,4
+Nnacheta ,Xavier,Stratford High School,11,x,1,x,0,x,2,3
+Peglow,Nicholas,Stratford High School,10,x,1,0,x,3,x,4
+Stafford,James,Stratford High School,11,0,x,0,x,x,0,0
+,,,,,,,,,,
+Deras,Marcelo,Trumbull High School,12,X,X,X,6,4,3,13
+Hughes,Ted,Trumbull High School,10,1,3,X,X,X,6,10
+Kulkarni,Yashas,Trumbull High School,12,X,3,0,X,4,X,7
+Kurtz,Nick,Trumbull High School,12,X,3,3,1,X,X,7
+Tran,Viet,Trumbull High School,11,1,X,X,4,4,X,9
+Xiong,Richard,Trumbull High School,11,3,X,3,X,X,6,12
+,,,,,,,,,,
+Jha,Rachit,Westhill High School,9,x,3,0,x,x,1,4
+Lipkin,Jake,Westhill High School,10,x,3,x,,4,x,7
+Oryspayev,Adil,Westhill High School,12,0,x,4,x,x,3,7
+Pandalai,Aaryan,Westhill High School,12,1,x,x,1,6,x,8
+Sahu,Rohan,Westhill High School,12,1,x,x,1,6,x,8
+Salihnur,Sahil,Westhill High School,11,x,1,0,x,x,3,4
+,,,,,,,,,,
+Leventhal,Jack,Wilton High School,12,X,6,X,6,6,X,18
+Patel,Arjun,Wilton High School,12,1,X,3,X,X,3,7
+Patel,Arushi,Wilton High School,10,0,6,X,0,X,X,6
+Shah,Arian,Wilton High School,12,X,X,6,6,X,6,18
+Sharp,Aiden,Wilton High School,11,X,X,1,X,6,6,13
+Zhou,Harry,Wilton High School,9,0,0,X,X,1,X,1
